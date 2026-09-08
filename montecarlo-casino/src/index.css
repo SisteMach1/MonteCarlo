@@ -1,9 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-body { background:#0A0A0A; margin:0; }
-.mono { font-family: 'JetBrains Mono', monospace; }
-.display { font-family: 'Syne', sans-serif; }
-.gold-text { background: linear-gradient(90deg,#D4AF37,#ffe9a0); -webkit-background-clip:text; -webkit-text-fill-color:transparent; background-clip:text; }
-* { box-sizing: border-box; }
